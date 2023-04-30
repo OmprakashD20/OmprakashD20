@@ -5,7 +5,7 @@
 	<a href="mailto:omprakashd10051@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/omprakashd2023"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://twitter.com/Ompraka11475601"><img src="https://img.icons8.com/bubbles/50/108650/twitter-squared.png" alt="Twitter"/></a>
-	<a href="https://www.linkedin.com/in/omprakash-d-18095222a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/omprakash-d/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/omprakash_d_79"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
