@@ -19,7 +19,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=omprakashd2023&label=Profile%20views&color=0e75b6&style=plastic" alt="Omprakash" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashd2023&theme=algolia" alt="Omprakash"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OmprakashD20&theme=algolia" alt="Omprakash"  /></p>
 
 
 ## 🛠️ My Skills
